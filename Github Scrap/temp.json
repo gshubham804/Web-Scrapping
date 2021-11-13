@@ -1,0 +1,631 @@
+[
+  {
+    "topicUrl": "https://www.github.com/topics/bash",
+    "repos": [
+      {
+        "repoUrl": "https://www.github.com/jlevy/the-art-of-command-line",
+        "issue": [
+          {
+            "issueName": "Command lines 101",
+            "issueUrl": "https://www.github.com/jlevy/the-art-of-command-line/issues/746"
+          },
+          {
+            "issueName": "Turkish translation and maintainer",
+            "issueUrl": "https://www.github.com/jlevy/the-art-of-command-line/issues/744"
+          },
+          {
+            "issueName": "Add s5cmd to the section that mentions Amazon S3 utilities",
+            "issueUrl": "https://www.github.com/jlevy/the-art-of-command-line/issues/741"
+          },
+          {
+            "issueName": "Y",
+            "issueUrl": "https://www.github.com/jlevy/the-art-of-command-line/issues/740"
+          },
+          {
+            "issueName": "05/14/2021",
+            "issueUrl": "https://www.github.com/jlevy/the-art-of-command-line/issues/737"
+          },
+          {
+            "issueName": "may be allow in ur guidelines ",
+            "issueUrl": "https://www.github.com/jlevy/the-art-of-command-line/issues/736"
+          },
+          {
+            "issueName": "Mention pipr",
+            "issueUrl": "https://www.github.com/jlevy/the-art-of-command-line/issues/732"
+          },
+          {
+            "issueName": "Do we need the Contributor Over Time chart?",
+            "issueUrl": "https://www.github.com/jlevy/the-art-of-command-line/issues/729"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/nvm-sh/nvm",
+        "issue": [
+          {
+            "issueName": "Nvm install fails with version 14.17.1",
+            "issueUrl": "https://www.github.com/nvm-sh/nvm/issues/2641"
+          },
+          {
+            "issueName": "nvm ls-remote shows no versions of node only iojs",
+            "issueUrl": "https://www.github.com/nvm-sh/nvm/issues/2639"
+          },
+          {
+            "issueName": "travis-ci breaks due to LetsEncrypt SSL CA expiration",
+            "issueUrl": "https://www.github.com/nvm-sh/nvm/issues/2622"
+          },
+          {
+            "issueName": "nvm commands hang instead of reporting an error when curl is not available",
+            "issueUrl": "https://www.github.com/nvm-sh/nvm/issues/2618"
+          },
+          {
+            "issueName": "Ubuntu 21.04 install script does not hook into .zshrc but into .bashrc",
+            "issueUrl": "https://www.github.com/nvm-sh/nvm/issues/2611"
+          },
+          {
+            "issueName": "[Usage question] How to make node available for a Wayland session?",
+            "issueUrl": "https://www.github.com/nvm-sh/nvm/issues/2610"
+          },
+          {
+            "issueName": "Ubuntu 21.04 not install nvm",
+            "issueUrl": "https://www.github.com/nvm-sh/nvm/issues/2608"
+          },
+          {
+            "issueName": "tmpdir not set for certain node versions?",
+            "issueUrl": "https://www.github.com/nvm-sh/nvm/issues/2587"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/junegunn/fzf",
+        "issue": [
+          {
+            "issueName": "Fzf keybind issue",
+            "issueUrl": "https://www.github.com/junegunn/fzf/issues/2650"
+          },
+          {
+            "issueName": "Toggle between search modes",
+            "issueUrl": "https://www.github.com/junegunn/fzf/issues/2643"
+          },
+          {
+            "issueName": "Spinner characters don't have glyphs in any of the default console fonts on Windows",
+            "issueUrl": "https://www.github.com/junegunn/fzf/issues/2631"
+          },
+          {
+            "issueName": "Call to bind in non-capable terminals",
+            "issueUrl": "https://www.github.com/junegunn/fzf/issues/2618"
+          },
+          {
+            "issueName": "Numbers on numpad (123..) are incorrectly translated to 'qrstuvwxy'",
+            "issueUrl": "https://www.github.com/junegunn/fzf/issues/2617"
+          },
+          {
+            "issueName": "feature request: add a truely 'exact' match to extended search mode",
+            "issueUrl": "https://www.github.com/junegunn/fzf/issues/2613"
+          },
+          {
+            "issueName": "[Issue] Expanding {n} automatically adds quotes and character escapes",
+            "issueUrl": "https://www.github.com/junegunn/fzf/issues/2609"
+          },
+          {
+            "issueName": "After setting key bindings in .zshrc, I encoutered login loop in Arch Linux",
+            "issueUrl": "https://www.github.com/junegunn/fzf/issues/2608"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/dylanaraps/pure-bash-bible",
+        "issue": [
+          {
+            "issueName": "Alternative to dos2unix",
+            "issueUrl": "https://www.github.com/dylanaraps/pure-bash-bible/issues/117"
+          },
+          {
+            "issueName": "Simplifying the cycle function for toggling",
+            "issueUrl": "https://www.github.com/dylanaraps/pure-bash-bible/issues/116"
+          },
+          {
+            "issueName": "Please add a note that you can't use '-' in variable names",
+            "issueUrl": "https://www.github.com/dylanaraps/pure-bash-bible/issues/115"
+          },
+          {
+            "issueName": "Shorter if syntax ",
+            "issueUrl": "https://www.github.com/dylanaraps/pure-bash-bible/issues/112"
+          },
+          {
+            "issueName": "Alternative to strings",
+            "issueUrl": "https://www.github.com/dylanaraps/pure-bash-bible/issues/110"
+          },
+          {
+            "issueName": "bash string as array",
+            "issueUrl": "https://www.github.com/dylanaraps/pure-bash-bible/issues/108"
+          },
+          {
+            "issueName": "add example debug script with trap",
+            "issueUrl": "https://www.github.com/dylanaraps/pure-bash-bible/issues/107"
+          },
+          {
+            "issueName": "Improved lines function",
+            "issueUrl": "https://www.github.com/dylanaraps/pure-bash-bible/issues/101"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/mathiasbynens/dotfiles",
+        "issue": [
+          {
+            "issueName": "com.apple.SoftwareUpdate",
+            "issueUrl": "https://www.github.com/mathiasbynens/dotfiles/issues/962"
+          },
+          {
+            "issueName": "[BUG] Terminal was break ",
+            "issueUrl": "https://www.github.com/mathiasbynens/dotfiles/issues/955"
+          },
+          {
+            "issueName": "Allias chrome returns this and opens the browser",
+            "issueUrl": "https://www.github.com/mathiasbynens/dotfiles/issues/948"
+          },
+          {
+            "issueName": "[Better Way] No Symlinks with usage as a bare repository - README needs updation.",
+            "issueUrl": "https://www.github.com/mathiasbynens/dotfiles/issues/938"
+          },
+          {
+            "issueName": "change wording for disable spotlight shortcut (and how to get it back if you change your mind)",
+            "issueUrl": "https://www.github.com/mathiasbynens/dotfiles/issues/937"
+          },
+          {
+            "issueName": "Disabling local time machine backups (APFS snapshots) not possible in Catalina",
+            "issueUrl": "https://www.github.com/mathiasbynens/dotfiles/issues/934"
+          },
+          {
+            "issueName": "Screensaver askForPassword and askForPasswordDelay not available since 10.13",
+            "issueUrl": "https://www.github.com/mathiasbynens/dotfiles/issues/922"
+          },
+          {
+            "issueName": "expose-group-by-app not work on 10.15.4",
+            "issueUrl": "https://www.github.com/mathiasbynens/dotfiles/issues/921"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/koalaman/shellcheck",
+        "issue": [
+          {
+            "issueName": "Missing \"cannot be declared & assigned separately\" error when using local -r",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2362"
+          },
+          {
+            "issueName": "Add a check for bare [[ ]] and (( ))  in bats tests (with pre 4.1 bash)",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2360"
+          },
+          {
+            "issueName": "SC2024 in systemd-nspawn container",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2358"
+          },
+          {
+            "issueName": "Use JSON as format of .shellcheckrc",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2357"
+          },
+          {
+            "issueName": "Allow to declare external variables please",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2356"
+          },
+          {
+            "issueName": "SC2032 triggers weirdly in a bigger file",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2353"
+          },
+          {
+            "issueName": "Also parse the color option from the config file",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2350"
+          },
+          {
+            "issueName": "Support common dumb-init/tini in shebang",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2349"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/LeCoupa/awesome-cheatsheets",
+        "issue": [
+          {
+            "issueName": "JavaScript is NOT a functional language",
+            "issueUrl": "https://www.github.com/LeCoupa/awesome-cheatsheets/issues/225"
+          },
+          {
+            "issueName": "Missing in Angular(2+) cheatsheet: Generation schematics",
+            "issueUrl": "https://www.github.com/LeCoupa/awesome-cheatsheets/issues/189"
+          },
+          {
+            "issueName": "Missing in Vim cheatsheet: autocompletion (ctrl-p, ctrl-n)",
+            "issueUrl": "https://www.github.com/LeCoupa/awesome-cheatsheets/issues/187"
+          },
+          {
+            "issueName": "New CheatSheets for text formatting languages (markdown)",
+            "issueUrl": "https://www.github.com/LeCoupa/awesome-cheatsheets/issues/182"
+          },
+          {
+            "issueName": "Add mongoose and/or mongodb",
+            "issueUrl": "https://www.github.com/LeCoupa/awesome-cheatsheets/issues/166"
+          },
+          {
+            "issueName": "Cannot use 20 (type int) as type *int in assignment",
+            "issueUrl": "https://www.github.com/LeCoupa/awesome-cheatsheets/issues/165"
+          },
+          {
+            "issueName": "kubernetes link doesn't work",
+            "issueUrl": "https://www.github.com/LeCoupa/awesome-cheatsheets/issues/162"
+          },
+          {
+            "issueName": "Link to K8s cheat sheet errors with 404 ",
+            "issueUrl": "https://www.github.com/LeCoupa/awesome-cheatsheets/issues/157"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/acmesh-official/acme.sh",
+        "issue": [
+          {
+            "issueName": "[Install]: Newline expected",
+            "issueUrl": "https://www.github.com/acmesh-official/acme.sh/issues/3788"
+          },
+          {
+            "issueName": "[Feature Request] Support notification for feishu.cn(飞书)",
+            "issueUrl": "https://www.github.com/acmesh-official/acme.sh/issues/3786"
+          },
+          {
+            "issueName": "Documentation : --install-cert vs. deploy scripts",
+            "issueUrl": "https://www.github.com/acmesh-official/acme.sh/issues/3784"
+          },
+          {
+            "issueName": "*.prepub.tangeche.com:Timeout",
+            "issueUrl": "https://www.github.com/acmesh-official/acme.sh/issues/3783"
+          },
+          {
+            "issueName": "chown, permissions,  'Processing, The CA is processing your order, please just wait'",
+            "issueUrl": "https://www.github.com/acmesh-official/acme.sh/issues/3780"
+          },
+          {
+            "issueName": "Cloudflare DNS api save credential per domain",
+            "issueUrl": "https://www.github.com/acmesh-official/acme.sh/issues/3779"
+          },
+          {
+            "issueName": "DNS解析失败",
+            "issueUrl": "https://www.github.com/acmesh-official/acme.sh/issues/3775"
+          },
+          {
+            "issueName": "DNS alias mode - CNAME record question",
+            "issueUrl": "https://www.github.com/acmesh-official/acme.sh/issues/3773"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://www.github.com/topics/firebase",
+    "repos": [
+      {
+        "repoUrl": "https://www.github.com/supabase/supabase",
+        "issue": [
+          {
+            "issueName": "Component dark mode after switched to light mode",
+            "issueUrl": "https://www.github.com/supabase/supabase/issues/3727"
+          },
+          {
+            "issueName": "Improvement: Align wording \"Sign in\" & \"Log in\" in app.supabase.io (when logged out)",
+            "issueUrl": "https://www.github.com/supabase/supabase/issues/3717"
+          },
+          {
+            "issueName": "Connection terminated unexpectedly when altering table",
+            "issueUrl": "https://www.github.com/supabase/supabase/issues/3688"
+          },
+          {
+            "issueName": "Dark / light theme switch on navbar",
+            "issueUrl": "https://www.github.com/supabase/supabase/issues/3643"
+          },
+          {
+            "issueName": "Trigger editor not showing triggers",
+            "issueUrl": "https://www.github.com/supabase/supabase/issues/3620"
+          },
+          {
+            "issueName": "Linked Foreign Key Icon barely visible -> resizing problem",
+            "issueUrl": "https://www.github.com/supabase/supabase/issues/3593"
+          },
+          {
+            "issueName": "The table editor shows an incorrect foreign key relation",
+            "issueUrl": "https://www.github.com/supabase/supabase/issues/3583"
+          },
+          {
+            "issueName": "Can't set type of row to enum containing uppercase letters",
+            "issueUrl": "https://www.github.com/supabase/supabase/issues/3553"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/pubkey/rxdb",
+        "issue": [
+          {
+            "issueName": "deletedFlag not getting set on push during graphQL replication",
+            "issueUrl": "https://www.github.com/pubkey/rxdb/issues/3436"
+          },
+          {
+            "issueName": "[Feature Request] Change Middleware to have an input and output to make working with typescript easier",
+            "issueUrl": "https://www.github.com/pubkey/rxdb/issues/3426"
+          },
+          {
+            "issueName": "Feature Request: Need a way to reset graphql replication",
+            "issueUrl": "https://www.github.com/pubkey/rxdb/issues/3394"
+          },
+          {
+            "issueName": "Better type support for when using middleware",
+            "issueUrl": "https://www.github.com/pubkey/rxdb/issues/3280"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/appwrite/appwrite",
+        "issue": [
+          {
+            "issueName": "Can't Upload Big Files ...",
+            "issueUrl": "https://www.github.com/appwrite/appwrite/issues/2378"
+          },
+          {
+            "issueName": "Feature: Sync appwrite conifguration with git ",
+            "issueUrl": "https://www.github.com/appwrite/appwrite/issues/2377"
+          },
+          {
+            "issueName": "🚀 Feature: Prevent email address harvesting",
+            "issueUrl": "https://www.github.com/appwrite/appwrite/issues/2372"
+          },
+          {
+            "issueName": "🚀 Feature: Please add a Scroll Indicator Progress Bar. It looks quite attractive 😄 ",
+            "issueUrl": "https://www.github.com/appwrite/appwrite/issues/2371"
+          },
+          {
+            "issueName": "🐛 Bug Report: OAuth2 does not add port number to redirect uri",
+            "issueUrl": "https://www.github.com/appwrite/appwrite/issues/2365"
+          },
+          {
+            "issueName": "🚀 Feature: Include database settings available in \"Update Rule\" for \"Add rule\"",
+            "issueUrl": "https://www.github.com/appwrite/appwrite/issues/2363"
+          },
+          {
+            "issueName": "📚 Documentation: The teams documentation is riddled with errors",
+            "issueUrl": "https://www.github.com/appwrite/appwrite/issues/2359"
+          },
+          {
+            "issueName": "🚀 Feature: Support for Middleware/Plugins",
+            "issueUrl": "https://www.github.com/appwrite/appwrite/issues/2358"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/firebase/functions-samples",
+        "issue": [
+          {
+            "issueName": "Message translation sample doesn't seem to be working",
+            "issueUrl": "https://www.github.com/firebase/functions-samples/issues/928"
+          },
+          {
+            "issueName": "[DOCS] Linkedin OAuth link",
+            "issueUrl": "https://www.github.com/firebase/functions-samples/issues/910"
+          },
+          {
+            "issueName": "[BUG] in sample: stripe (FUNCTION_NAME)",
+            "issueUrl": "https://www.github.com/firebase/functions-samples/issues/909"
+          },
+          {
+            "issueName": "when download code form git its showing me that error in codeigniter ",
+            "issueUrl": "https://www.github.com/firebase/functions-samples/issues/904"
+          },
+          {
+            "issueName": "[DOCS] Firebase idToken and Cloud Function Authorization",
+            "issueUrl": "https://www.github.com/firebase/functions-samples/issues/903"
+          },
+          {
+            "issueName": "[BUG] in sample: LinkedIn Auth __session cookie does not persist when function is called by popup.html",
+            "issueUrl": "https://www.github.com/firebase/functions-samples/issues/876"
+          },
+          {
+            "issueName": "Stripe Demo Deploy fails",
+            "issueUrl": "https://www.github.com/firebase/functions-samples/issues/870"
+          },
+          {
+            "issueName": "[BUG] in sample: instagram-auth",
+            "issueUrl": "https://www.github.com/firebase/functions-samples/issues/869"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/invertase/react-native-firebase",
+        "issue": [
+          {
+            "issueName": "[🐛]arrayUnion works like arrayRemove in 12.9.0",
+            "issueUrl": "https://www.github.com/invertase/react-native-firebase/issues/5826"
+          },
+          {
+            "issueName": "[🐛] Not receiving FCM messages after deleteToken() on IOS, getAPNSToken() is null",
+            "issueUrl": "https://www.github.com/invertase/react-native-firebase/issues/5823"
+          },
+          {
+            "issueName": "[🐛] 🔥 Expo run:android fails with app.json changes but succeeds with manual build.gradle changes",
+            "issueUrl": "https://www.github.com/invertase/react-native-firebase/issues/5822"
+          },
+          {
+            "issueName": "[🐛] Change error message for messaging().registerDeviceForRemoteMessages()",
+            "issueUrl": "https://www.github.com/invertase/react-native-firebase/issues/5813"
+          },
+          {
+            "issueName": "[📚] Unclear which signing key to use",
+            "issueUrl": "https://www.github.com/invertase/react-native-firebase/issues/5799"
+          },
+          {
+            "issueName": "[🐛] 🔥 Creating a notification inside custom FirebaseMessagingService makes app not trigger onNotificationOpenedApp()",
+            "issueUrl": "https://www.github.com/invertase/react-native-firebase/issues/5769"
+          },
+          {
+            "issueName": "[🐛] 🔥  iOS app need to be quitted with home Button for setBackgroundMessageHandler to be triggered",
+            "issueUrl": "https://www.github.com/invertase/react-native-firebase/issues/5764"
+          },
+          {
+            "issueName": "🔥[🐛] Android Secondary App - Remote config not fetching",
+            "issueUrl": "https://www.github.com/invertase/react-native-firebase/issues/5763"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/firebase/quickstart-android",
+        "issue": [
+          {
+            "issueName": "Build failure without any warning",
+            "issueUrl": "https://www.github.com/firebase/quickstart-android/issues/1333"
+          },
+          {
+            "issueName": "Can anyone give me source code of this in full java ",
+            "issueUrl": "https://www.github.com/firebase/quickstart-android/issues/1332"
+          },
+          {
+            "issueName": "no edit source code",
+            "issueUrl": "https://www.github.com/firebase/quickstart-android/issues/1331"
+          },
+          {
+            "issueName": "I had error on EntryChoiceActivity im using java",
+            "issueUrl": "https://www.github.com/firebase/quickstart-android/issues/1330"
+          },
+          {
+            "issueName": "I have found a Docs error",
+            "issueUrl": "https://www.github.com/firebase/quickstart-android/issues/1328"
+          },
+          {
+            "issueName": "Firebase causing Crashes on several devices after instaling from playstore (SQLiteConnection.java )",
+            "issueUrl": "https://www.github.com/firebase/quickstart-android/issues/1325"
+          },
+          {
+            "issueName": "Token is written to the log files.",
+            "issueUrl": "https://www.github.com/firebase/quickstart-android/issues/1319"
+          },
+          {
+            "issueName": "How can i get all the devices subscribed to a particular FCM topic?",
+            "issueUrl": "https://www.github.com/firebase/quickstart-android/issues/1302"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/angular/angularfire",
+        "issue": [
+          {
+            "issueName": "where to import connectEmulator from?",
+            "issueUrl": "https://www.github.com/angular/angularfire/issues/3040"
+          },
+          {
+            "issueName": "angulrafire v 7 docs",
+            "issueUrl": "https://www.github.com/angular/angularfire/issues/3039"
+          },
+          {
+            "issueName": "Auth: Cannot use browserPopupRedirectResolver on demand",
+            "issueUrl": "https://www.github.com/angular/angularfire/issues/3038"
+          },
+          {
+            "issueName": "Error on pageload when optimization is on and AngularFireAuth is used",
+            "issueUrl": "https://www.github.com/angular/angularfire/issues/3037"
+          },
+          {
+            "issueName": "Property 'canActivate' in type 'AngularFireAuthGuard' is  not assignable to the same property in base type 'CanActivate'.",
+            "issueUrl": "https://www.github.com/angular/angularfire/issues/3031"
+          },
+          {
+            "issueName": "Module '\"@angular/fire/auth\"' has no exported member 'AngularFireAuth'.ts(2305) .  please help me to solve this issue",
+            "issueUrl": "https://www.github.com/angular/angularfire/issues/3028"
+          },
+          {
+            "issueName": "Function Dependencies Causing Build To Fail",
+            "issueUrl": "https://www.github.com/angular/angularfire/issues/3025"
+          },
+          {
+            "issueName": "Any evocation of fireFunctions.httpsCallable make Angular Zone instable",
+            "issueUrl": "https://www.github.com/angular/angularfire/issues/3023"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/FirebaseExtended/flutterfire",
+        "issue": [
+          {
+            "issueName": "Did not find appCheck().getToken() method or any workaround.",
+            "issueUrl": "https://www.github.com/FirebaseExtended/flutterfire/issues/7286"
+          },
+          {
+            "issueName": "🐛 [firebase_database] No error thrown, when losing rights, while listening on a child's value.",
+            "issueUrl": "https://www.github.com/FirebaseExtended/flutterfire/issues/7285"
+          },
+          {
+            "issueName": "ExecutionException: java.io.IOException: SERVICE_NOT_AVAILABLE",
+            "issueUrl": "https://www.github.com/FirebaseExtended/flutterfire/issues/7282"
+          },
+          {
+            "issueName": "🐛 [RemoteConfig] Conditions using User ID are not evaluated correctly for properties",
+            "issueUrl": "https://www.github.com/FirebaseExtended/flutterfire/issues/7281"
+          },
+          {
+            "issueName": "FirebaseMessaging.instance.getAPNSToken always return null",
+            "issueUrl": "https://www.github.com/FirebaseExtended/flutterfire/issues/7278"
+          },
+          {
+            "issueName": "Crash in IOS , FIRApp is undeclared or undetected.",
+            "issueUrl": "https://www.github.com/FirebaseExtended/flutterfire/issues/7276"
+          },
+          {
+            "issueName": "🐛 [firebase_auth] Firebase user displayName not filled from Apple Sign-in credentials",
+            "issueUrl": "https://www.github.com/FirebaseExtended/flutterfire/issues/7274"
+          },
+          {
+            "issueName": "🐛 [firebase_auth] Auth email links not working on iOS and Gmail app if using a custom domain",
+            "issueUrl": "https://www.github.com/FirebaseExtended/flutterfire/issues/7272"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://www.github.com/topics/wordplate",
+    "repos": [
+      { "repoUrl": "https://www.github.com/wordplate/wordplate", "issue": [] },
+      {
+        "repoUrl": "https://www.github.com/wordplate/extended-acf",
+        "issue": []
+      },
+      { "repoUrl": "https://www.github.com/wordplate/plate", "issue": [] },
+      { "repoUrl": "https://www.github.com/wordplate/framework", "issue": [] },
+      { "repoUrl": "https://www.github.com/wordplate/mail", "issue": [] },
+      {
+        "repoUrl": "https://www.github.com/fiskhandlarn/blade",
+        "issue": [
+          {
+            "issueName": "Upgrade phpunit to 9.5",
+            "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/10"
+          },
+          {
+            "issueName": "Fix/test ACF dashes",
+            "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/8"
+          },
+          {
+            "issueName": "Add examples",
+            "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/6"
+          },
+          {
+            "issueName": "Update documentation for new soberwp/controller version",
+            "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/5"
+          },
+          {
+            "issueName": "Scope helper functions",
+            "issueUrl": "https://www.github.com/fiskhandlarn/blade/issues/4"
+          }
+        ]
+      },
+      { "repoUrl": "https://www.github.com/Levdbas/BasePlate", "issue": [] },
+      {
+        "repoUrl": "https://www.github.com/wordplate/wordplate.github.io",
+        "issue": []
+      }
+    ]
+  }
+]
